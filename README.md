@@ -4,6 +4,10 @@
 
 This makes it easy to reuse Pi-hole blocklists in AdGuard Home or any DNS sinkhole that supports host-style blocking.
 
+This tool is useful for creating DNS blocklists, ad-blocking files, or redirect lists from the following source:
+
+https://github.com/gieljnssns/Social-media-Blocklists
+
 ---
 
 ## Features
